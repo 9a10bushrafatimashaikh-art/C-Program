@@ -1,8 +1,3 @@
-// Name: Ashaz Shakir Patel
-// UIN : 251M003
-// Class: FE Mechanical
-// Div: F
-
 #include <stdio.h>
 
 int main()
@@ -24,4 +19,5 @@ int main()
     (average >= 50) ? printf("Student is Eligible for Admission\n") : printf("Student is Not Eligible for Admission\n");
 
     return 0;
+
 }
