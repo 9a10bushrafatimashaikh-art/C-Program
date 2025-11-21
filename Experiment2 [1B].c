@@ -1,9 +1,3 @@
-/*
-Name:Ashaz Shakir Patel 
-UIN:251M003
-Class:FE Mechanical
-Div: F
-*/
 #include <stdio.h>
 int main()
 {
@@ -25,4 +19,5 @@ int main()
     }
     printf("The sum of the odd numbers between %d to %d is %d\n", start, end, sum);
     return 0;
+
 }
