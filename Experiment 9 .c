@@ -1,9 +1,3 @@
-/*
-Name: ASHAZ SHAKIR PATEL
-UIN: 251M003
-Class: FE Mechanical Engineering
-Div: F
-*/
 #include <stdio.h>
 struct student_record {
 	char name[50];
@@ -39,3 +33,4 @@ int main() {
 	printf("Total Marks : %.2f\n", s[topper_index].total_marks);
 	return 0;
 }
+
