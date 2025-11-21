@@ -1,10 +1,3 @@
-/*
-Name:Ashaz Shakir Patel 
-UIN:251M003
-Class: Mechanical Engineering
-Div: F
-*/
-
 #include <stdio.h>
 
 void addEmployee() {
@@ -52,3 +45,4 @@ int main() {
 
     return 0;
 }
+
