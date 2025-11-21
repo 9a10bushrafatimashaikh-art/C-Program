@@ -1,9 +1,3 @@
-/*
-Name:Ashaz Shakir Patel 
-UIN:251M003
-Class:FE Mechanical
-Div: F
-*/
 #include <stdio.h>
 
 int main() 
@@ -23,4 +17,5 @@ int main()
     }
 
     return 0;
+
 }
