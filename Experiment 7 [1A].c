@@ -1,10 +1,3 @@
-/*
-Name: ASHAZ SHAKIR PATEL
-UIN: 251M003
-Class: FE Mechanical Engineering
-Div: F
-*/
-
 #include <stdio.h>
 
 int main() {
@@ -35,3 +28,4 @@ int main() {
 
 	return 0;
 }
+
